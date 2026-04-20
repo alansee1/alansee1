@@ -2,7 +2,10 @@
 
 <br />
 
-<img src="./images/logo.png" alt="[as]" width="80" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/logo-dark.png">
+  <img src="./images/logo-light.png" alt="[as]" width="80" />
+</picture>
 
 <br /><br /><br />
 
