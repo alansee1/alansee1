@@ -15,11 +15,7 @@
 
 ---
 
-### ⚡ About
-
-Senior Application Support Engineer at **Lively**. SQL / databases by day, building random things by night. Hiked the Pacific Crest Trail in 2023. Based in Wisconsin.
-
-Playground → [**alansee.dev**](https://www.alansee.dev)
+> 🔒 Most of my code lives in private repos — the full picture (projects, dev diary, work logs) is at [**alansee.dev**](https://www.alansee.dev).
 
 ### 🛠 Stack
 
@@ -44,16 +40,3 @@ Playground → [**alansee.dev**](https://www.alansee.dev)
 | **[Personal Site](https://www.alansee.dev/projects/personal-site)** | This portfolio, with live work logs + dev diary |
 
 More → [alansee.dev/projects](https://www.alansee.dev/projects)
-
-### 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alansee1&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansee1&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9" height="165" />
-</p>
-
-<div align="center">
-
-<sub>Built in between trail miles and espresso shots ☕</sub>
-
-</div>
