@@ -25,29 +25,25 @@
 
 ### Projects
 
-</div>
+<table>
+<tr><td><b><a href="https://www.alansee.dev/projects/workspot">WorkSpot</a></b></td><td align="center">🟢</td><td>Finding laptop-friendly coffee shops</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/colecovision-rom-hacking">ColecoVision ROM Hacking</a></b></td><td align="center">🟢</td><td>Reverse-engineering Z80 assembly</td></tr>
+<tr><td><b><a href="https://x.com/c_3p1_agent">C-3P1</a></b></td><td align="center">🟢</td><td>24/7 AI coworker running on a Raspberry Pi</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/jackalspot">JackalSpot</a></b></td><td align="center">🟢</td><td>Robinhood for ad space</td></tr>
+<tr><td><b><a href="https://quizio.io">Quizio</a></b></td><td align="center">🟢</td><td>Real-time multiplayer trivia</td></tr>
+<tr><td><b><a href="https://www.alansee.dev">Personal Site</a></b></td><td align="center">🟢</td><td>This portfolio — dev diary, work logs, shelf</td></tr>
+<tr><td><b><a href="https://twitter.com/FlooorGang">FlooorGang</a></b></td><td align="center">🟡</td><td>NBA pick cards auto-generated on a Pi</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/stranger-things-tracker">Stranger Things Tracker</a></b></td><td align="center">🟡</td><td>Character screen-time + dialogue analysis</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/shelf/extreme-connect-4">Extreme Connect 4</a></b></td><td align="center">🟡</td><td>Connect 4 with configurable board + pieces-to-win</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/murder-mystery-llm">Murder Mystery LLM</a></b></td><td align="center">🟡</td><td>SQL mystery game guided by an LLM detective</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/shelf/cosmic-drift">Cosmic Drift</a></b></td><td align="center">🟡</td><td>Space-themed absorption game with physics-based AI</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/ai-art">AI Art</a></b></td><td align="center">🟡</td><td>Local SD 2.1 image gen, CLI, Apple Metal</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/workout-tracker">Workout Tracker</a></b></td><td align="center">🟡</td><td>2+ years of gym data + visualizations</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/ai-videos">AI Videos</a></b></td><td align="center">⚪</td><td>Experimental AI-generated video content</td></tr>
+<tr><td><b><a href="https://www.alansee.dev/projects/reddit-devvit-app">Reddit Devvit</a></b></td><td align="center">⚪</td><td>Daily AI estimation game on Reddit</td></tr>
+</table>
 
-|  |  |  |
-| :-- | :-: | :-- |
-| **[WorkSpot](https://www.alansee.dev/projects/workspot)** | 🟢 | Finding laptop-friendly coffee shops |
-| **[ColecoVision ROM Hacking](https://www.alansee.dev/projects/colecovision-rom-hacking)** | 🟢 | Reverse-engineering Z80 assembly |
-| **[C-3P1](https://x.com/c_3p1_agent)** | 🟢 | 24/7 AI coworker running on a Raspberry Pi |
-| **[JackalSpot](https://www.alansee.dev/projects/jackalspot)** | 🟢 | Robinhood for ad space |
-| **[Quizio](https://quizio.io)** | 🟢 | Real-time multiplayer trivia |
-| **[Personal Site](https://www.alansee.dev)** | 🟢 | This portfolio — dev diary, work logs, shelf |
-| **[FlooorGang](https://twitter.com/FlooorGang)** | 🟡 | NBA pick cards auto-generated on a Pi |
-| **[Stranger Things Tracker](https://www.alansee.dev/projects/stranger-things-tracker)** | 🟡 | Character screen-time + dialogue analysis |
-| **[Extreme Connect 4](https://www.alansee.dev/shelf/extreme-connect-4)** | 🟡 | Connect 4 with configurable board + pieces-to-win |
-| **[Murder Mystery LLM](https://www.alansee.dev/projects/murder-mystery-llm)** | 🟡 | SQL mystery game guided by an LLM detective |
-| **[Cosmic Drift](https://www.alansee.dev/shelf/cosmic-drift)** | 🟡 | Space-themed absorption game with physics-based AI |
-| **[AI Art](https://www.alansee.dev/projects/ai-art)** | 🟡 | Local SD 2.1 image gen, CLI, Apple Metal |
-| **[Workout Tracker](https://www.alansee.dev/projects/workout-tracker)** | 🟡 | 2+ years of gym data + visualizations |
-| **[AI Videos](https://www.alansee.dev/projects/ai-videos)** | ⚪ | Experimental AI-generated video content |
-| **[Reddit Devvit](https://www.alansee.dev/projects/reddit-devvit-app)** | ⚪ | Daily AI estimation game on Reddit |
-
-<div align="center">
-
-<sub>🟢 active &nbsp;·&nbsp; 🟡 paused &nbsp;·&nbsp; ⚪ abandoned &nbsp;·&nbsp; *most repos are private*</sub>
+<sub>🟢 active &nbsp;·&nbsp; 🟡 paused &nbsp;·&nbsp; ⚪ abandoned &nbsp;·&nbsp; <i>most repos are private</i></sub>
 
 </div>
 
