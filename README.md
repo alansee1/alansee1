@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./images/logo.png" alt="[as]" width="120" />
+<img src="./images/logo.png" alt="[as]" width="110" />
 
 # Alan See
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Trying+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=520&lines=Trying+things;...and+logging+them+all;...mostly+in+private+repos;See+%E2%86%92+alansee.dev)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/alansee.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.alansee.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-see-880bb8140/)
@@ -15,28 +15,57 @@
 
 ---
 
-> 🔒 Most of my code lives in private repos — the full picture (projects, dev diary, work logs) is at [**alansee.dev**](https://www.alansee.dev).
+```bash
+$ whoami
+> alansee1
 
-### 🛠 Stack
+$ uptime
+> 63 dev diary entries · 496 work items logged · 9 active · ~22 in the graveyard
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+$ cat ~/.plan
+> the public repos are a rounding error.
+> the real story lives at alansee.dev — projects, dev diary, work logs, reading list.
+```
 
-### 🚀 Featured Projects
+<br />
 
-| | |
-|---|---|
-| **[WorkSpot](https://www.alansee.dev/projects/workspot)** | Spot open desks in real time at shared workspaces |
-| **[Quizio](https://www.alansee.dev/projects/quizio)** | Interactive multiplayer quiz platform |
-| **[Murder Mystery LLM](https://www.alansee.dev/projects/murder-mystery-llm)** | Solve a procedurally-generated mystery with an LLM detective |
-| **[ColecoVision ROM Hacking](https://www.alansee.dev/projects/colecovision-rom-hacking)** | Reverse-engineering Z80 assembly to hack vintage ROMs |
-| **[Flooorgang](https://www.alansee.dev/projects/flooorgang)** | Automated NBA pick cards, generated nightly on a Raspberry Pi |
-| **[Personal Site](https://www.alansee.dev/projects/personal-site)** | This portfolio, with live work logs + dev diary |
+## `$ ls ~/projects/ --sort=recent --filter=public`
 
-More → [alansee.dev/projects](https://www.alansee.dev/projects)
+| Project | Status | Stack | Hours |
+|---|:---:|---|---:|
+| [**Quizio**](https://www.alansee.dev/projects/quizio) · real-time multiplayer trivia | 🟢 Active | `TypeScript` `PartyKit` `WebSockets` `Vite` | **203h** |
+| [**Personal Website**](https://www.alansee.dev/projects/personal-site) · this thing, with a dev diary | 🟢 Active | `Next.js` `TypeScript` `Tailwind` `Framer` | **98h** |
+| [**FlooorGang**](https://www.alansee.dev/projects/flooorgang) · NBA pick cards, auto-generated on a Pi | 🟡 Paused | `Python` `nba_api` `pandas` `Raspberry Pi` | **25h** |
+| [**C-3P1**](https://www.alansee.dev/projects/c3p1) · Jarvis-style AI coworker on a Pi | 🟢 Active | `Node.js` `Raspberry Pi` `Telegram` | **18h** |
+| [**JackalSpot**](https://www.alansee.dev/projects/jackalspot) · live marketplace for ad space | 🟢 Active | `TypeScript` `Next.js` `Supabase` `PartyKit` | **11h** |
+| [**ColecoVision ROM Hacking**](https://www.alansee.dev/projects/colecovision-rom-hacking) · reverse-engineering Z80 | 🟢 Active | `Z80 Assembly` `Python` | **3h** |
+| [**AI Videos**](https://www.alansee.dev/projects/ai-videos) · experimental AI-gen content | ⚪ Abandoned | `Midjourney` `Runway` `FFmpeg` | **2h** |
+| [**Reddit Devvit**](https://www.alansee.dev/projects/reddit-devvit) · daily AI estimation game | ⚪ Abandoned | `TypeScript` `React` `Redis` | **3h** |
+| [**WorkSpot**](https://www.alansee.dev/projects/workspot) · find laptop-friendly coffee shops | 🟢 Active | `TypeScript` `Next.js` `Supabase` | **1h** |
+
+```bash
+$ ls ~/projects/ | wc -l
+> 31   # most are locked down. the ones above are the tip of the iceberg.
+```
+
+<br />
+
+## `$ cat ~/.now`
+
+```
+> Currently nerding out on: real-time collab, voice UIs, retro hardware
+> Currently building:       the muscle to ship without polishing forever
+> Currently reading:        tracked at alansee.dev/shelf
+```
+
+<br />
+
+<div align="center">
+
+```
+   ─────────────────────────────────────────
+   $ open https://www.alansee.dev
+   ─────────────────────────────────────────
+```
+
+</div>
